@@ -6,7 +6,7 @@ import smart_questions as questions
 #Goal score is all of the primaries available. Primaries have a max 10pts reward.
 goal_score = 0
 incident_chance = 2 #increase to reduce chances of an incident.
-max_rows = 10
+max_rows = 3
 secondary_rand_chance = 5 # A random chance to get a secondary question. 1-10, 1 is low, 10 is always.
 
 # ---Player Data---
